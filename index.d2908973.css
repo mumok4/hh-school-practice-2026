@@ -12,17 +12,10 @@
   box-sizing: border-box;
 }
 
-html {
-  height: 100%;
-}
-
 body {
   color: #333;
-  flex-direction: column;
-  height: 100%;
   margin: 0;
   font: 14px / 1.2 Arial, sans-serif;
-  display: flex;
   position: relative;
 }
 
